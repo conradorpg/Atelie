@@ -1,0 +1,14 @@
+
+.icon-logo-atelie:before { content: '\e800'; } /* '' */
+.icon-mail:before { content: '\e80c'; } /* '' */
+.icon-mail-circled:before { content: '\e80d'; } /* '' */
+.icon-phone:before { content: '\e80e'; } /* '' */
+.icon-pin:before { content: '\e80f'; } /* '' */
+.icon-folder:before { content: '\e810'; } /* '' */
+.icon-facebook-circled:before { content: '\f051'; } /* '' */
+.icon-facebook:before { content: '\f052'; } /* '' */
+.icon-instagram:before { content: '\f05d'; } /* '' */
+.icon-instagram-circled:before { content: '\f05e'; } /* '' */
+.icon-phone-squared:before { content: '\f098'; } /* '' */
+.icon-folder-empty:before { content: '\f114'; } /* '' */
+.icon-whatsapp:before { content: '\f232'; } /* '' */
